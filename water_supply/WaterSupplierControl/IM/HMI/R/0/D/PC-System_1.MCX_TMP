@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MCX>
+	<ProjectLocation>
+		C:\Users\DELL\Documents\Project\Programable Logic Control\WaterSupplierControl\IM\HMI\R\0\D\HMI_92WG
+	</ProjectLocation>
+	<ProjectIsConsistent>
+		1
+	</ProjectIsConsistent>
+	<SharedMcxLocation>
+		
+	</SharedMcxLocation>
+	<ProjectLocationUNC>
+		\\THANHDUONG\WinCC_Project_HMI_92WG
+	</ProjectLocationUNC>
+	<RDP>
+	<LastModifiedDate>
+		2021-08-20 23:10:40
+	</LastModifiedDate>
+	</RDP>
+</MCX>
